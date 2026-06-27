@@ -3,9 +3,9 @@
     "x-eagle-snapshot-saver@takedayousuke.local": {
       "updates": [
         {
-          "version": "0.5.29",
-          "update_link": "https://20260624yosuke.github.io/browser-update-feed-7m4q2d/asset-d0be6ac7699f0e0e-0.5.29.xpi",
-          "update_hash": "sha256:80e2a78be6f9d21d89a779c881a03fe7a42ac25ee3ee27f86369ee71db9b5e13",
+          "version": "0.5.30",
+          "update_link": "https://20260624yosuke.github.io/browser-update-feed-7m4q2d/asset-975fd89fe523d18a-0.5.30.xpi",
+          "update_hash": "sha256:9a60e5606dce9c4e1f57d7e54f5f0a00f6d76325a1f2e93dbc1ea077b8eeb31f",
           "applications": {
             "gecko": {
               "strict_min_version": "109.0"
